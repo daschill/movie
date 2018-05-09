@@ -1,0 +1,1 @@
+To run the project, open the file in the Python IDLE and run the file. You will then be presented with an html page filled with some of my favorite movies and their trailers. To watch the trailer just click on the image asset of the movie and the trailer will start playing.
